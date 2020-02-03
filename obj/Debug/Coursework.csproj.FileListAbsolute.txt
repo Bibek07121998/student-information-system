@@ -1,0 +1,12 @@
+E:\Coursework\C#\Coursework\bin\Debug\Coursework.exe.config
+E:\Coursework\C#\Coursework\bin\Debug\Coursework.exe
+E:\Coursework\C#\Coursework\bin\Debug\Coursework.pdb
+E:\Coursework\C#\Coursework\bin\Debug\Newtonsoft.Json.dll
+E:\Coursework\C#\Coursework\bin\Debug\Newtonsoft.Json.xml
+E:\Coursework\C#\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+E:\Coursework\C#\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+E:\Coursework\C#\Coursework\obj\Debug\Coursework.StudentEnrollForm.resources
+E:\Coursework\C#\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+E:\Coursework\C#\Coursework\obj\Debug\Coursework.csproj.CopyComplete
+E:\Coursework\C#\Coursework\obj\Debug\Coursework.exe
+E:\Coursework\C#\Coursework\obj\Debug\Coursework.pdb
